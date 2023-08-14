@@ -1,0 +1,9 @@
+ASSIGNMENT 4 : VOTING APP
+1. what happens after db pod deletion? 
+The Db pOd blah. blah..asdfl;adsfjsd.;lasdjf;ljkads.,masdfklasdf.asdf.,sadn
+[root@ip-172-31-33-58 k8s-specifications]# kubectl logs worker-dd46d7584-t7d6z
+Waiting for db
+Connected to db
+Found redis at 10.100.82.200
+Connecting to redis
+Processing vote for 'b' by '64662b78ff561d2'
